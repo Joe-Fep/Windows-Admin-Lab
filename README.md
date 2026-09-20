@@ -1,6 +1,6 @@
 # Windows-Admin-Lab
 Hands-on Windows Server lab focused on disk management, storage configuration, and BitLocker encryption, including partitioning, volume creation, encryption, recovery, and decryption.
-Absolutely. I'd put it **right underneath the Overview** so the recruiter immediately knows where the lab came from and what *your* contribution was.
+
 
 # Windows System Administration: Disk Management and Encryption
 
